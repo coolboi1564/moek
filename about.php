@@ -39,7 +39,7 @@ body {
 <body>
 <div class="topnav">
   <image src="Moe K..png">
-  <a class="active" href="home.php">Home</a>
+  <a class="active" href="index.php">Home</a>
   <a href="about.php">About</a>
 </div>
     <h1 style = "color:white;text-align:center;">About Moe's YT<h1>
