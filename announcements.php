@@ -41,7 +41,7 @@ body {
     <pre style = "font-size:25px;">     FYI, Moe is gifting a random subscriber at 100
      subs! Add his epic username;Ferrooo76!</pre> 
   
-      <pre style = "font-size:25px;position:fixed;right:-250px;bottom:50px;>       We also have a new discord server you can join!. 
+      <pre style = "font-size:25px;position:fixed;right:-75px;>       We also have a new discord server you can join!. 
        Invite Link: https://discord.gg/GTFRwUA73z</pre>
 </body>
 </html>
