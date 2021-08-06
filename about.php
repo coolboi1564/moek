@@ -43,7 +43,7 @@ body {
   <a href="about.php">About</a>
 </div>
     <h1 style = "color:white;text-align:center;">About Moe's YT<h1>
-        <pre>            Wassup guys, I'm just a controller player trying to succeed my dreams anddddd 
+        <pre>                Wassup guys, I'm just a controller player trying to succeed my dreams anddddd 
                  I post clips and shorts to entertain you guys and make your day just a little better:).
                  I will soon be posting longer videos and interact with you guys more soon! </pre>
 </html>
