@@ -47,7 +47,7 @@ body {
         <a href = "https://www.youtube.com/channel/UCFMjmlzKhN6mr4lScLVkkhA?sub_confirmation=1" target = "_blank"  ><image src=rsz_subscribe-button-youtube.jpg></a>
         <p>Check out his latest Video!<p>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Q84SBylD6AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <pre style = "position:relative; right:-100px;top:-50px;">        FYI, Moe is gifting a random subscriber 
+<pre style = "position:relative; right:-100px;top:50px;">        FYI, Moe is gifting a random subscriber 
                                                                   at 100 subs! Add his epic username; Ferrooo76!</pre>    
 </body>
 </html>
