@@ -41,6 +41,7 @@ body {
   <image src="Moe K..png">
   <a class="active" href="index.php">Home</a>
   <a href="about.php">About</a>
+  <a href="#announcements">Annnouncements<a>    
 </div>
     <h1 style = "color:white;text-align: center;">Sub to Moe!<h1>
         <p style = "font-size:20px;">Pls click on the button, plsssss</p>
