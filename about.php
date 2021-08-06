@@ -41,6 +41,7 @@ body {
   <image src="Moe K..png">
   <a class="active" href="index.php">Home</a>
   <a href="about.php">About</a>
+  <a href="announcements.php">Announcements</a>    
 </div>
     <h1 style = "color:white;text-align:center;">About Moe's YT<h1>
         <pre>                 Wassup guys, I'm just a controller player trying to succeed my dreams anddddd 
