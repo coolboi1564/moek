@@ -33,7 +33,8 @@
   <a href="announcements.php">Annnouncements<a>    
 </div>
     <h1 style="text-align:center;">Announcements/What's New!</h1>
-    <pre>     FYI, Moe is gifting a random subscriber at 100
-     subs! Add his epic username;Ferrooo76!</pre>  
+    <pre style = "font-size:12px;">     FYI, Moe is gifting a random subscriber at 100
+     subs! Add his epic username;Ferrooo76!</pre> 
+      <p style = "font-size:12px;">We also have a new discord server you can join!. Invite Link: https://discord.gg/GTFRwUA73z</p>
 </body>
 </html>
