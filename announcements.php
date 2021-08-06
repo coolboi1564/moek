@@ -40,6 +40,7 @@ body {
     <h1 style="text-align:center;">Announcements/What's New!</h1>
     <pre style = "font-size:25px;">     FYI, Moe is gifting a random subscriber at 100
      subs! Add his epic username;Ferrooo76!</pre> 
-      <p style = "font-size:25px;">We also have a new discord server you can join!. Invite Link: https://discord.gg/GTFRwUA73z</p>
+      <pre style = "font-size:25px;">       We also have a new discord server you can join!. 
+      Invite Link: https://discord.gg/GTFRwUA73z</pre>
 </body>
 </html>
