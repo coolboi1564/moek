@@ -37,12 +37,9 @@ body {
         <link rel="shortcut icon" href="OIP.jpg" type="image/x-icon">
 </head>
 <body>
-<div class="topnav">
-  <image src="Moe K..png">
-  <a class="active" href="index.php">Home</a>
-  <a href="about.php">About</a>
-  <a href="announcements.php">Announcements</a>    
-</div>
+<?php
+    require "nav.php"
+    ?>
     <h1 style = "color:white;text-align:center;">About Moe's YT<h1>
         <pre>                 Wassup guys, I'm just a controller player trying to succeed my dreams anddddd 
                  I post clips and shorts to entertain you guys and make your day just a little better:).
