@@ -29,6 +29,7 @@ body {
    
         </style>
         <title>Announcements</title>
+        <link rel="shortcut icon" href="OIP.jpg" type="image/x-icon">
 </head>
 <body>
     <div class="topnav">
