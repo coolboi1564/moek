@@ -37,12 +37,9 @@ body {
         <link rel="shortcut icon" href="OIP.jpg" type="image/x-icon">
 </head>
 <body>
-<div class="topnav">
-  <image src="Moe K..png">
-  <a class="active" href="index.php">Home</a>
-  <a href="about.php">About</a>
-  <a href="announcements.php">Annnouncements<a>    
-</div>
+<?php
+    require "nav.php"
+    ?>
     <h1 style = "color:white;text-align: center;">Sub to Moe!<h1>
         <p style = "font-size:20px;">Pls click on the button, plsssss</p>
         <a href = "https://www.youtube.com/channel/UCFMjmlzKhN6mr4lScLVkkhA?sub_confirmation=1" target = "_blank"  ><image src=rsz_subscribe-button-youtube.jpg></a>
