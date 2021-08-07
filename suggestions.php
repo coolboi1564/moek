@@ -30,14 +30,15 @@
        <link rel= href="OIP.jpg" type ="image/x-icon">          
 </head>
 <body>
+    <h1 style = "text-align:center;">Video Suggestions</h1>
 <form>
     <?php
     require "nav.php"
     ?>
-  <label for="fname">First name:</label>
-  <input type="text" id="fname" name="fname"><br><br>
-  <label for="lname">Last name:</label>
-  <input type="text" id="lname" name="lname"><br><br>
+  <label for="sugg">Suggestion:</label>
+  <input type="text" id="fname" name="Suggestion" placeholder="Doesn't Work"><br><br>
+  <label for="fname">First Name:</label>
+  <input type="text" id="fname" name="First Name"><br><br>
   <input type="submit" value="Submit">
 </form>
 </body>
