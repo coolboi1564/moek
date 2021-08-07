@@ -32,12 +32,9 @@ body {
         <link rel="shortcut icon" href="OIP.jpg" type="image/x-icon">
 </head>
 <body>
-    <div class="topnav">
-  <image src="Moe K..png">
-  <a class="active" href="index.php">Home</a>
-  <a href="about.php">About</a>
-  <a href="announcements.php">Annnouncements<a>    
-</div>
+   <?php
+    require "nav.php"
+    ?>
     <h1 style="text-align:center;">Announcements/What's New!</h1>
     <pre style = "font-size:25px;">     FYI, Moe is gifting a random subscriber at 100
      subs! Add his epic username;Ferrooo76!</pre> 
